@@ -1,0 +1,83 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@1,300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,400;1,300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,700;0,800;1,400&display=swap');
+background-color:green;
+}
+.menu  ul {
+list-style:none;
+color:black;
+text-align:center;
+}
+.menu li {
+display: inline-block;
+padding:25px 50px;
+
+}
+.boxb  img {
+max-width:100%;
+
+}
+.menu {
+	font-size: 25px;
+
+
+
+	font-family: 'Open Sans', sans-serif;
+}
+
+.menu li:hover{background-color:black;
+color:white;}
+
+h1 {
+
+
+	font-family: 'Open Sans', sans-serif;
+}
+
+
+h2 {
+
+
+
+font-family: 'Open Sans', sans-serif;
+
+}
+
+.header {
+
+  border-color: #430e80;
+  color: white;
+  height: 80px;
+  text-align: center;
+  line-height: 80px;
+ 
+}
+
+.footer {
+
+   border-color: #160529;
+  color: white;
+  height: 80px;
+  text-align: center;
+  line-height: 80px;
+
+}
+
+.centre {
+
+   border-color: #491682;
+  color: white;
+  height: 800px;
+  width: 80%;
+  margin:;
+  text-align: center;
+  line-height: 80px;
+
+
+
+
+}
+
+
+
+
